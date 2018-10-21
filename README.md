@@ -1,2 +1,2 @@
 # marcodangelo.github.io
-One of my personal sites. Mainly related to code &amp; dev. Heavily work in progress
+One of my personal sites. Mainly acting as an Hub for my social profiles. Heavily work in progress
